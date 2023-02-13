@@ -24,6 +24,3 @@ sed -i '/customized in this file/a net.netfilter.nf_conntrack_max=165535' packag
 # git clone https://github.com/openwrt-develop/luci-theme-atmaterial.git package/luci-theme-atmaterial
 # git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
 
-#添加额外非必须软件包
-# git clone https://github.com/kiddin9/openwrt-packages.git package/openwrt-packages
-git clone https://github.com/kenzok8/small-package package/small-package
